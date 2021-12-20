@@ -1,0 +1,10 @@
+*.class
+*.log
+log
+*.jar
+*.war
+target
+.idea
+.svn
+*.iml
+。settings
